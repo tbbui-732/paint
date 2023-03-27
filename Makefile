@@ -1,6 +1,6 @@
 TARGETS=main
-CC=gcc
-CFLAGS= -Wall -g -std=c99
+CC=cc
+CFLAGS= -Wall -g 'simple2d --libs'
 
 all: $(TARGETS)
 
