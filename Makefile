@@ -8,4 +8,4 @@ $(TARGETS): %: %.c
 	$(CC) $(CFLAGS) -o $@ $<
 
 clean: 
-	trash $(TARGETS) *.o a.out
+	trash $(TARGETS) *.o a.out *.dSYM
