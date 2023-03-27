@@ -1,1 +1,1 @@
-paint simulator sort of like ms paint
+testing functionalities of simple2d graphics library
